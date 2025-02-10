@@ -1,2 +1,2 @@
 # PBO
-Matkul Pemrograman Berorientasi Objek
+MATKUL | Pemrograman Berorientasi Objek
